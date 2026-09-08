@@ -8,5 +8,4 @@ public class IdtechExam2Application {
 	public static void main(String[] args) {
 		SpringApplication.run(IdtechExam2Application.class, args);
 	}
-
 }
